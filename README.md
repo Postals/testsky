@@ -60,8 +60,3 @@ Smoke<p>
   пароль: bVPaUm9XuCC8hMn
 </ol>
 
-
-
-## Контактная информация
-- Email: stanislav.marinich@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/stasmarinich/)
